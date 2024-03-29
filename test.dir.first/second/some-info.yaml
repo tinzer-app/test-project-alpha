@@ -1,0 +1,7 @@
+project: first
+desc: "Some Text"
+version : 0.0.1
+values: [1, 2, 3]
+visible: true
+someNumber: 123
+email: some.email@gmail.com
